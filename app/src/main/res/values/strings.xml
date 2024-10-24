@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">pantai menyala</string>
+    <string name="affirmation2">pantai senja</string>
+    <string name="affirmation3">pegunungan yang uh</string>
+    <string name="affirmation4">pegunungan yang malamini</string>
+    <string name="affirmation5">gunung siang</string>
+    <string name="affirmation6">gunung sunrice</string>
+    <string name="affirmation7">langit galau</string>
+    <string name="affirmation8">bumi uh</string>
+    <string name="affirmation9">planet menyala</string>
+    <string name="affirmation10">planet merkuriuus</string>
+</resources>
